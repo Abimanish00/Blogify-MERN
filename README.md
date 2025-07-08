@@ -88,7 +88,8 @@ npm install
 
 # Add your MongoDB URI and JWT secret to .env
 npm start
-💻 Frontend
+
+### 💻Frontend
 
 bash
 cd client
